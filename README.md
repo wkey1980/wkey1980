@@ -1,7 +1,8 @@
 # Hi, I'm Will,
 
+This is my GitHub profile. You can also find me at [iguana-code][website] which is currently in development and is not live. I am using this project to learn and practice my web development skills.
 
-This is my GitHub profile. You can also find me at [iguana-code][website] which is currently in development. I am using this project to learn and practice my web development skills.
+I have been working through the projects on frontend mentor.
 
 [![Website](https://img.shields.io/website?label=iguana-code.com&style=for-the-badge&url=https%3A%2F%2Figuana-code.com)](https://www.iguana-code.com)
 
