@@ -1,8 +1,7 @@
 # Hi, I'm Will,
 
-This is my GitHub profile. You can also find me at [iguana-code][website] which is currently in planning for development (getting ideas on style, layout, colours etc...) and is not live. I am using this project to learn and practice my web development skills.
+This is my GitHub profile. This is where I upload all of my code projects and practice code snippets.
 
-[![Website](https://img.shields.io/website?label=iguana-code.com&style=for-the-badge&url=https%3A%2F%2Figuana-code.com)](https://www.iguana-code.com)
 
 Please [email](mailto:will@iguana-code.com) me for any enquiries.
 
